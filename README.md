@@ -1,4 +1,4 @@
-<h1>Scripts:</h1>
+<img src="scripts.svg" width="100%" height="100%">
 <br />
 <a href="https://gist.github.com/zzzlax/d5bec62e3abc1bdddee3979ea3ede967">lz4 & z3fold compression for debian bootloaders</a>
 <br />
