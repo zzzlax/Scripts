@@ -17,3 +17,5 @@
 <a href="https://gist.github.com/zzzlax/56355140a8354890a48b920411df545a">A one liner to replace catfish/kfind </a>
 <br />
 <a href="https://gist.github.com/zzzlax/8d09eb27fde063d0fd18e8d7009cda57">Lock your terminal w/ independent passwd and log offenders to a local dotfile owned by root</a>
+<br />
+<a href="https://gist.github.com/zzzlax/1515b9e7085b69d83c3dfcbdd5e6bc44">Generate hash of hidden string</a>
