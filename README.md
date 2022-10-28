@@ -13,6 +13,7 @@
 <a href="https://zzzlax.github.io/style/">CSS demo's</a>
 <br />
 <a href="https://gist.github.com/zzzlax/baaa363eb548f944e2e7c653c91b2c67">Hide your command and it's output while making on lookers think you have passwords from hell </a>
-
 <br />
 <a href="https://gist.github.com/zzzlax/56355140a8354890a48b920411df545a">A one liner to replace catfish/kfind </a>
+<br />
+<a href="https://gist.github.com/zzzlax/8d09eb27fde063d0fd18e8d7009cda57">Lock your terminal w/ independent passwd and log offenders to a local dotfile owned by root</a>
