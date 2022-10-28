@@ -11,3 +11,5 @@
 <a href="https://gist.github.com/zzzlax/2739b761a9793bc9c4085c352ccddb1f">A bindsym/hotkey to pull up a gui and select routine matinence tasks to background and wall for debian (AKA n00bert) </a>
 <br />
 <a href="https://zzzlax.github.io/style/">CSS demo's</a>
+<br />
+<a href="https://gist.github.com/zzzlax/baaa363eb548f944e2e7c653c91b2c67">Hide your command and it's output while making on lookers think you have passwords from hell </a>
