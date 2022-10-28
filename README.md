@@ -8,4 +8,8 @@
 <br />
 <a href="https://gist.github.com/zzzlax/f0371fe1214c73389d9bf9461f482490">torrify your shell</a>
 <br />
+
+<a href="https://gist.github.com/zzzlax/2739b761a9793bc9c4085c352ccddb1f">A bindsym/hotkey to pull up a gui and select routine matinence tasks to background and wall for debian (AKA n00bert) </a>
+<br />
+
 <a href="https://zzzlax.github.io/style/">CSS demo's</a>
