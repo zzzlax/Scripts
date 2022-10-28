@@ -20,4 +20,4 @@
 <br />
 <a href="https://gist.github.com/zzzlax/8d09eb27fde063d0fd18e8d7009cda57">Lock your terminal w/ independent passwd and log offenders to a local dotfile owned by root</a>
 <br />
-<a href="https://gist.github.com/zzzlax/1515b9e7085b69d83c3dfcbdd5e6bc44">Generate hash of hidden string</a>
+<a href="https://gist.github.com/zzzlax/199bd5e29d820e473840c2efc34eeb69">Hash hidden string using zenity</a>
