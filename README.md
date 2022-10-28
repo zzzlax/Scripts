@@ -1,4 +1,5 @@
 <img src="scripts.svg" width="100%" height="100%">
+<h1>Setup Scripts</h1>
 <br />
 <a href="https://gist.github.com/zzzlax/d5bec62e3abc1bdddee3979ea3ede967">Lz4 & z3fold compression for debian bootloaders</a>
 <br />
@@ -8,6 +9,7 @@
 <br />
 <a href="https://gist.github.com/zzzlax/f0371fe1214c73389d9bf9461f482490">Torrify your shell</a>
 <br />
+<h1>Aliases/One Liners/Snippets</h1>
 <a href="https://gist.github.com/zzzlax/2739b761a9793bc9c4085c352ccddb1f">A bindsym/hotkey to pull up a gui and select routine matinence tasks to background and wall for debian (AKA n00bert) </a>
 <br />
 <a href="https://zzzlax.github.io/style/">CSS demo's</a>
