@@ -9,6 +9,8 @@
 <br />
 <a href="https://gist.github.com/zzzlax/f0371fe1214c73389d9bf9461f482490">Torrify your shell</a>
 <br />
+<a href="https://gist.github.com/zzzlax/a8b03dfae9cf82c3170c63607c3c0044">Enable syntax highlighting in nano for every language available </a>
+<br />
 <h1>Aliases/One Liners/Snippets</h1>
 <a href="https://gist.github.com/zzzlax/2739b761a9793bc9c4085c352ccddb1f">A bindsym/hotkey to pull up a gui and select routine matinence tasks to background and wall for debian (AKA n00bert) </a>
 <br />
