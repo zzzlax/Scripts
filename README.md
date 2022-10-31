@@ -24,4 +24,6 @@
 <br />
 <a href="https://gist.github.com/zzzlax/199bd5e29d820e473840c2efc34eeb69">Hash hidden string using zenity</a>
 <br />
-<a href="https://gist.github.com/zzzlax/cd82fcbfa35ace5359460ee7ec654b5e"> Security headers for static pages</a>
+<a href="https://gist.github.com/zzzlax/cd82fcbfa35ace5359460ee7ec654b5e">Security headers for static pages</a>
+<br />
+<a href="https://gist.github.com/zzzlax/61785ffd73e5b0ab5f71911e0a90ae0b">Sha3 in python</a>
