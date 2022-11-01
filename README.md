@@ -29,3 +29,5 @@
 <a href="https://gist.github.com/zzzlax/61785ffd73e5b0ab5f71911e0a90ae0b">Sha3 in bash passed to python with args </a>
 <br />
 <a href="https://gist.github.com/zzzlax/f3f671080e1a7db3a99fabf6b720fdd9">Add speech recognition to your bash terminal and launch commands by shouting them at your computer like a madman</a>
+<br />
+<a href="https://gist.github.com/zzzlax/776e564487087c6d25a65f16d09d2f96">Emulate zsh globbing and cd commands in bash </a>
