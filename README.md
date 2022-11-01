@@ -22,11 +22,7 @@
 <br />
 <a href="https://gist.github.com/zzzlax/8d09eb27fde063d0fd18e8d7009cda57">Lock your terminal w/ independent passwd and log offenders to a local dotfile owned by root</a>
 <br />
-<a href="https://gist.github.com/zzzlax/199bd5e29d820e473840c2efc34eeb69">Hash hidden string using zenity</a>
-<br />
 <a href="https://gist.github.com/zzzlax/cd82fcbfa35ace5359460ee7ec654b5e">Security headers for static pages</a>
-<br />
-<a href="https://gist.github.com/zzzlax/61785ffd73e5b0ab5f71911e0a90ae0b">Sha3 in bash passed to python with args </a>
 <br />
 <a href="https://gist.github.com/zzzlax/f3f671080e1a7db3a99fabf6b720fdd9">Add speech recognition to your bash terminal and launch commands by shouting them at your computer like a madman</a>
 <br />
