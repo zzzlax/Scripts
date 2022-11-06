@@ -27,6 +27,8 @@
 <br />
 <a href="https://gist.github.com/zzzlax/f3f671080e1a7db3a99fabf6b720fdd9">Add speech recognition to your bash terminal and launch commands by shouting them at your computer like a madman</a><p> -zzzlax</p>
 <br />
+<a href="https://gist.github.com/zzzlax/bf82383979b0a9df502296f1d1ebc638">That thing you didnt know you needed until you saw it. Docker edition.</a><p> -zzzlax</p>
+<br />
 <a href="https://gist.github.com/zzzlax/776e564487087c6d25a65f16d09d2f96">Emulate zsh globbing and cd commands in bash </a><p> -zzzlax</p>
 <hr />
 <a href="https://github.com/zzzlax/zzzrcs">For more scripts/aliases check my zsh/bashrc sheets here!</a><p> -zzzlax</p>
