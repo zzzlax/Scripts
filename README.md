@@ -15,8 +15,6 @@
 <h1>Aliases/One Liners/Snippets</h1>
 <a href="https://gist.github.com/zzzlax/2739b761a9793bc9c4085c352ccddb1f">A bindsym/hotkey to pull up a gui and select routine matinence tasks to background and wall for debian (AKA n00bert) </a><p> -zzzlax</p>
 <br />
-<a href="https://zzzlax.github.io/style/">CSS demo's</a><p> -zzzlax</p>
-<br />
 <a href="https://gist.github.com/zzzlax/baaa363eb548f944e2e7c653c91b2c67">Hide your command and it's output while making on lookers think you have passwords from hell </a><p> -zzzlax</p>
 <br />
 <a href="https://gist.github.com/zzzlax/56355140a8354890a48b920411df545a">A one liner to replace catfish/kfind </a><p> -zzzlax</p>
