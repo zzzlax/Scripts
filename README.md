@@ -28,9 +28,9 @@
 <a href="https://gist.github.com/4rge/bf82383979b0a9df502296f1d1ebc638">That thing you didnt know you needed until you saw it. Docker edition.</a><p> -zzzlax</p>
 <br />
 <a href="https://gist.github.com/4rge/776e564487087c6d25a65f16d09d2f96">Emulate zsh globbing and cd commands in bash </a><p> -zzzlax</p>
-<hr />
+<br />
 <a href="https://github.com/zzzlax/4rge](https://gist.github.com/4rge/80ba48d22ea6fb1cff58aa40b967c5ff)">Convert tensorflow model to tesnsorflow_lite</a><p> -zzzlax</p>
-<hr />
+<br />
 <a href="https://gist.github.com/4rge/b7a27d9532a2866b2a6f30e5e2a36432">Convert tflite to kmodel for Kendryte kpu</a><p> -zzzlax</p>
 
 
